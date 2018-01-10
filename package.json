@@ -12,8 +12,8 @@
   "license": "ISC",
   "dependencies": {
     "next": "^4.2.2",
-    "qrcode-react": "^0.1.15",
-    "react": "^16.2.0",
-    "react-dom": "^16.2.0"
+    "qrcode-react": "^0.1.16",
+    "react": "16.2.0",
+    "react-dom": "16.2.0"
   }
 }
